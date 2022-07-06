@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.card-btn{
+    width: 34rem;
+}
+.card-verify-btn{
+    width: 34rem;
+    position: absolute;
+    top: 50%;
+    left: 29%;
+    margin-top: -50px;
+    margin-left: -50px;
+}
+.card{
+ background: linear-gradient(to top left, #66ccff 0%, #ffffff 103%);
+}
